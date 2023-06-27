@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package cadastropoo;
 
 /**
@@ -13,6 +9,8 @@ import model.*;
 import java.io.IOException;
 
 import java.util.Scanner;
+
+// 2º Procedimento resultado FINAL 
 public class CadastroPOO {
 
     private static final Scanner scanner = new Scanner(System.in);
