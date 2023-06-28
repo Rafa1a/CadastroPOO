@@ -1,13 +1,14 @@
 # CadastroPOO - Projeto de Cadastro utilizando Programação Orientada a Objetos
-[Clique aqui para baixar o arquivo PDF](Procedimento1.pdf)
 
 Este projeto é um sistema de cadastro implementado em Java utilizando conceitos de Programação Orientada a Objetos (POO). Ele permite o cadastro e gerenciamento de pessoas físicas e jurídicas, utilizando classes, herança, interfaces e persistência em arquivos.
 
 ## Estrutura do Projeto
-
+PROCEDIMENTO 1 :[Clique aqui para baixar o arquivo PDF explicando o procedimento 1, com o primeiro teste, repostas de perguntas do aprendizado](Procedimento1.pdf)
+PROCEDIMENTO 2 : [Clique aqui para baixar o arquivo PDF explicando o procedimento 2 main FINAL, e com as respostas das perguntas do aprendizado que tive neste nivel](Procedimento2.pdf)
 O projeto está estruturado da seguinte forma:
 
-- `CadastroPOO.java`: classe principal que contém o método `main` e interage com o usuário através do console.
+- `CadastroPOO.java`: classe principal FINAL que contém o método `main` e interage com o usuário através do console.
+- `CadastroPOOprocesso1.java`: classe principal de primeiro teste que contém o método `main`.
 - Pacote `model`:
   - `Pessoa.java`: classe abstrata que representa uma pessoa, com os atributos `id` e `nome`, e métodos para exibição e manipulação desses dados.
   - `PessoaFisica.java`: classe que herda de `Pessoa` e adiciona os atributos `cpf` e `idade`, além de métodos específicos.
@@ -17,7 +18,7 @@ O projeto está estruturado da seguinte forma:
   
 ## Utilização do Projeto
 
-O projeto oferece um menu interativo para o usuário, com as seguintes opções:
+O projeto final oferece um menu interativo para o usuário, com as seguintes opções:
 
 1. Incluir: permite incluir uma nova pessoa física ou jurídica.
 2. Alterar: permite alterar os dados de uma pessoa física ou jurídica existente.
