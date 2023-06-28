@@ -3,8 +3,8 @@
 Este projeto é um sistema de cadastro implementado em Java utilizando conceitos de Programação Orientada a Objetos (POO). Ele permite o cadastro e gerenciamento de pessoas físicas e jurídicas, utilizando classes, herança, interfaces e persistência em arquivos.
 
 ## Estrutura do Projeto
-PROCEDIMENTO 1 :[Clique aqui para baixar o arquivo PDF explicando o procedimento 1, com o primeiro teste, repostas de perguntas do aprendizado](Procedimento1.pdf)
-PROCEDIMENTO 2 : [Clique aqui para baixar o arquivo PDF explicando o procedimento 2 main FINAL, e com as respostas das perguntas do aprendizado que tive neste nivel](Procedimento2.pdf)
+PROCEDIMENTO 1 :[Clique aqui para baixar o arquivo PDF explicando o procedimento 1, com o primeiro teste, repostas de perguntas do aprendizado](Procedimento1.pdf).
+PROCEDIMENTO 2 : [Clique aqui para baixar o arquivo PDF explicando o procedimento 2 main FINAL, e com as respostas das perguntas do aprendizado que tive neste nivel](Procedimento2.pdf).
 O projeto está estruturado da seguinte forma:
 
 - `CadastroPOO.java`: classe principal FINAL que contém o método `main` e interage com o usuário através do console.
